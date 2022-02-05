@@ -1,10 +1,11 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tip Calculator*
+![Alt Text](https://user-images.githubusercontent.com/56556840/152629774-e0a41e73-1367-4594-b08f-982e7edacc1c.gif)
 
-**Name of your app** is a tip calculator application for iOS.
+**Simple Tips** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Benji Luo**
 
-Time spent: **X** hours spent in total
+Time spent: **6.4** hours spent in total
 
 ## User Stories
 
